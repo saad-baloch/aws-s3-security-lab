@@ -3,8 +3,11 @@
 
 Resource: `finance/report.txt`
 Test method: Opened the S3 Object URL in an incognito browser window without AWS authentication.
+
 Expected result: AccessDenied
+
 Actual result: AccessDenied
+
 Status: PASS
 
 ## Security Finding
